@@ -1,0 +1,14 @@
+{
+  "name": "js-learninggrouo-api",
+  "version": "1.0.0",
+  "description": "API used to introduce students to API usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  }
+}
